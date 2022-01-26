@@ -1,5 +1,5 @@
 # Test Wiki Semi-Automated Inactivity Scripts
-Partially automates [Test Wiki:Inactivity policy](https://testwiki.wiki/wiki/Test Wiki:Inactivity policy) processing
+Partially automates [Test Wiki:Inactivity policy](https://testwiki.wiki/wiki/Test_Wiki:Inactivity policy) processing
 
 This script should only be used by Consuls.
 
